@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">whacamole</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="play">play</string>
+    <string name="game_title">whac-\na-mole</string>
+    <string name="game_over">game over</string>
+    <string name="play_again">play again</string>
+
+</resources>
